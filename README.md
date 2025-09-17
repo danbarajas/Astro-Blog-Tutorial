@@ -1,4 +1,11 @@
-# Astro Starter Kit: Minimal
+# Astro Tutorial
+
+<img width="1312" height="894" alt="image" src="https://github.com/user-attachments/assets/f434d772-77a2-4bf4-8d0c-db8f8c38cd97" />
+
+[Live Site](https://astro-uic-tutorial.netlify.app/)
+
+A simple blog website made using Astro. Blog posts are categorized using tags and, using Astro components, are dynamically displayed and sorted. RSS feed supported.
+With previous experience in React and JavaScript, most of the code was easy to understand. One of the more difficult concepts was the tags and RSS, but I found it interesting and useful.
 
 ```sh
 npm create astro@latest -- --template minimal
